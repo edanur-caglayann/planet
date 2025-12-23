@@ -84,6 +84,8 @@ impl Processor {
 
         msg!("kesfedilengezegenkaydi");
 
+          // bu hesap benim programim tarafindan mi olusturulud
+          // kullanici bu programin sahibi mi 
         if kasifkullanicihesap.owner != program_id{
           panic!()
         }
