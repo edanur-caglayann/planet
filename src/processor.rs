@@ -32,7 +32,7 @@ impl Processor {
         }
       }
 
-
+// sisteme yeni bir kasif kaydi olusturur 
       pub fn kasifkisikaydi(
         program_id: &Pubkey, // kontratın çalışıtğı programın kimliği
         accounts: &[AccountInfo], // fonks çalışması için gerekli olan hesap bilgileri
