@@ -7,4 +7,4 @@ Bu proje, kullanıcıların gezegenler keşfetmesini ve bu gezegenlerle ilgili b
 - *Gezegen Oluşturma:* Kullanıcılar, blockchain üzerinde bir gezegen oluşturabilir ve bilgilerini saklayabilir.
 - *Gezegen Bilgisi Okuma:* Kullanıcılar, blockchain üzerinde saklanan gezegen bilgilerini okuyabilir.
 - *Yetki Yazma:* Otorite, gezegen verilerini onaylayabilir ve yetki verebilir.
-- *Onaylı Verileri Ekleme:* Onaylanan veriler blockchain'e eklenir ve saklanır.
+- *Onaylı Verileri Ekleme:* Onaylanan veriler blockchain'e eklenir ve saklanır...
